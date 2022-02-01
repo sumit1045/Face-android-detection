@@ -21,7 +21,7 @@ This project framework provides the following features:
 
 ![Android screenshot of a photo with faces framed by a red rectangle](https://docs.microsoft.com/en-us/azure/cognitive-services/face/Images/android_getstarted2.1.PNG)
 
-## Getting Started
+### Getting Started
 
 ### Prerequisites
 
