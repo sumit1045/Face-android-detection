@@ -30,4 +30,4 @@ IF SUFFICIENT INFORMATION IS NOT PROVIDED VIA THE FOLLOWING TEMPLATE THE ISSUE M
 ### Mention any other details that might be useful
 
 > ---------------------------------------------------------------
-> Thanks! We'll be in touch soon.
+
