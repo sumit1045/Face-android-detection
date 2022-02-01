@@ -1,4 +1,4 @@
-## Detect and frame faces in an image on Android - Changelog
+## Detect and frame faces in an image on Android - Changelog  
 
 # 1.4.3 (2018-07-11)
 
@@ -13,6 +13,6 @@
 
 * Layout uses `android:paddingLeft="@dimen/activity_horizontal_margin"` and others, but doesn't define the `dimen`'s.
 
-*Breaking Changes*
+* Breaking Changes *
 
 * none
