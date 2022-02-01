@@ -13,6 +13,6 @@
 
 * Layout uses `android:paddingLeft="@dimen/activity_horizontal_margin"` and others, but doesn't define the `dimen`'s.
 
-* Breaking Changes *
+*Breaking Changes*
 
 * none
