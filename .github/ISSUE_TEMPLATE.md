@@ -15,7 +15,7 @@ IF SUFFICIENT INFORMATION IS NOT PROVIDED VIA THE FOLLOWING TEMPLATE THE ISSUE M
 ### Minimal steps to reproduce
 >
 
-### Any log messages given by the failure
+## Any log messages given by the failure
 >
 
 ### Expected/desired behavior
